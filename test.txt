@@ -5,6 +5,3 @@ This is the file from remote repo lets see how it works.
 
  this is to test of the git configuration for the user is working or not.
 
-
-Lets check the difference in the different version of the file.
-
