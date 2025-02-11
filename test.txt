@@ -6,5 +6,8 @@ This is the file from remote repo lets see how it works.
  this is to test of the git configuration for the user is working or not.
 
 
+
 This is going to be another line which is going to create conflict in the merge.
+adding the line to create conflict in the merge
+
 
